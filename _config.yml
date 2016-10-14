@@ -3,7 +3,7 @@ title: Peter Indiola
 description: Experiment. Fail. Learn. Repeat.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://peterindiola.com" # the base hostname & protocol for your site
+url: "http://pindiola.me" # the base hostname & protocol for your site
 
 author:
   fullname: Peter Indiola
@@ -12,7 +12,7 @@ author:
   twitter: PeterIndiola
   # disqus: your_disqus_forum_shortname
 
-google_analytics: 'UA-78775804-1'
+google_analytics: 'UA-74100318-1'
 
 # Syntax highlighting
 highlightstyle: ''
